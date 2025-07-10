@@ -1,17 +1,9 @@
 transaction_id,date,amount,merchant,description
-1,2025-06-01,-12.99,Netflix,Monthly subscription
-2,2025-06-02,-56.43,Whole Foods,Grocery shopping
-3,2025-06-02,-3.50,Starbucks,Latte
-4,2025-06-03,-79.99,Amazon,Electronics order
-5,2025-06-03,-12.99,Spotify,Monthly subscription
-6,2025-06-04,-1200.00,Landlord,June rent
-7,2025-06-05,2000.00,Company Payroll,Salary for June
-8,2025-06-06,-35.00,Uber,Airport ride
-9,2025-06-07,-8.99,Apple,iCloud storage
-10,2025-06-08,-89.00,Gym Pro,Monthly gym membership
-11,2025-06-09,-47.25,Target,Household items
-12,2025-06-10,-3.50,Starbucks,Cold Brew
-13,2025-06-11,-12.99,Netflix,Monthly subscription
-14,2025-06-12,-14.20,Panera,Work lunch
-15,2025-06-13,-56.43,Whole Foods,Grocery shopping
+1,2025-03-01,-12.99,Netflix,Monthly subscription
+2,2025-04-01,-12.99,Netflix,Monthly subscription
+3,2025-05-01,-12.99,Netflix,Monthly subscription
+4,2025-06-01,-12.99,Netflix,Monthly subscription
+5,2025-07-01,-12.99,Netflix,Monthly subscription
+6,2025-06-15,-10.99,Spotify,One-time promo
+7,2025-06-20,-20.00,Uber,Airport ride
 
