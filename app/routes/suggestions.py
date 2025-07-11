@@ -21,8 +21,12 @@ def get_subscriptions(db: Session = Depends(get_db)):
     return detect_recurring_subscriptions(db)
 
 @router.get("/categorized")
-def get_categorized_transactions(db: Session = Depends(get_db)):
-    return categorize_transactions(db)
+def get_categorized_transactions(
+    month: int = None,
+    year: int = None,
+    db: Session = Depends(get_db)
+):
+    return categorize_transactions(db, month, year)
 
 @router.get("/summary")
 def get_category_summary(db: Session = Depends(get_db)):
